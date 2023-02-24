@@ -1,0 +1,38 @@
+.unoDos,.tresCuatro, .cincoSeis {
+  display: flex;  
+}
+
+
+.placaRey {
+  padding: 2px 15px 20px;
+  margin-top: 5px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+
+img{
+  width: 100%;
+}
+
+button {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+p, h3 {
+  line-height: 50%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  color: aliceblue;
+}
+
+.cantidad {
+  text-align: center; 
+  color: aliceblue;
+  background-color: goldenrod;
+  border-radius: 20px;
+  width: 10%;
+  margin-left: 80%;
+  margin-top: 0%;  
+}
+
